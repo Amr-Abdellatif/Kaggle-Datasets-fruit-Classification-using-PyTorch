@@ -1,6 +1,8 @@
 # In This Repository we will tackle a Classification problem using Kaggle Dataset
 
-## we will try to utilize Resnet 18 with some additional options like callbacks and lr scheduling
+## we will try to utilize Resnet 18 with some additional options like callbacks and lr scheduling and MLP layer
+
+### link : https://www.kaggle.com/datasets/alihasnainch/fruits-dataset-for-classification/data
 
 1. ## Dataset
 ----- 
